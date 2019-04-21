@@ -1,0 +1,63 @@
+<style>
+	@import url(./Controller/acctController.css);
+</style>
+<div class="vertical height-auto">
+	<form action="" class="form-horizontal">
+		<div class="form-group inline">
+			<button class="btn" #acct_add>添加流水账</button>
+		</div>
+		<div class="form-group" style="width:340px">
+			<label for="" class="input-label">起始日期</label>
+			<input type="masked" class="input-control" mask="#### - ##" #start_date>
+		</div>
+		<div class="form-group" style="width:340px">
+			<label for="" class="input-label">终止日期</label>
+			<input type="masked" class="input-control" mask="#### - ##" #end_date>
+		</div>
+		<div class="form-group inline" style="margin-left:10px">
+			<button class="btn" #acct_search>查询统计</button>
+		</div>
+	</form>
+<div class="horizontal height-auto" >
+	<div class="width-auto height-auto" >
+<widget type='select' .table style="height:100%%">
+					<table cellspacing="0px">
+						<thead>
+							<tr>
+								<th width="120px">日期</th>
+								<th width="100px">号码</th>
+								<th width="100%%">摘要</th>
+								<th width="96px">凭证</th>
+								<th width="200px">操作员</th>
+								<th width="110px">进账</th>
+								<th width="110px">出账</th>
+								<th width="150px">余额</th>
+							</tr>
+						</thead>
+						<tbody #acct-list>
+
+						</tbody>
+						<div>
+							<div style="width:200px; margin-left:auto;">
+								<a href="" style='click!:page("acct", "Home")'>首页</a>&nbsp;
+								<a href="" style='click!:page("acct", "Prev")'>上一页</a>&nbsp;
+								<a href="" style='click!:page("acct", "Next")'>下一页</a>&nbsp;
+								<a href="" style='click!:page("acct", "Last")'>尾页</a>
+							</div>
+							<div id="acct-pageinfo" style="width:200px; margin-right:auto;"></div>
+						</div>
+					</table>
+				</widget>
+		</div>
+		<div style="width:240px">
+			<ul class="newlist" #acct_statistical>
+				<li>本月进账<span>122单</span></li>
+				<li>本月出账<span>2995元</span></li>
+				<li>本月总额</li>
+				<li>共计出账</li>
+				<li>共计进账</li>
+				<li>全部合计</li>
+			</ul>
+		</div>
+	</div>
+</div>

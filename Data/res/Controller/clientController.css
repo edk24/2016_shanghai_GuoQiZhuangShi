@@ -1,0 +1,19 @@
+#client_add {
+	click!:client("add");
+}
+#client_search {
+	click!:
+			type = $1(#client_search_type):value,
+			key = $1(#client_search_key):value,
+			client("search", type, key);
+}
+#client_modify {
+	click!:
+			obj = self.parent().parent().parent(), //tr
+			client("modify", obj.Cid);
+}
+#client_del {
+	click!:
+			obj = self.parent().parent().parent(), //tr
+			client("del", obj.Cid);
+}

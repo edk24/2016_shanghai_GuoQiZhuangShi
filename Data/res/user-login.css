@@ -1,0 +1,182 @@
+    html {
+        background:transparent;
+        position:relative; 
+    }
+    body {
+        background-color:#fff;
+        font-family:'Microsoft YaHei', sans-serif;
+        color:#444;
+    }
+    .window-main {
+        width:100%;
+        height:100%;
+        background-image:url('image/toumin.png');
+        background-repeat:expand stretch-middle;
+        background-position:80px 80px 80px 80px;
+        position:absolute;
+
+        bottom:0;
+        left:0;
+        right:0;
+        top:0;
+        active-on!:$(.toolmenu)::opacity=0;
+    }
+    .window-main .window-container {
+        position:absolute;
+        left:40px;
+        right:40px;
+        top:40px;
+        bottom:40px;
+    }
+	.window-container .main-titlebar {
+		width:100%;
+		height:30px;
+		position: fixed;
+	}
+	.main-titlebar span { 
+		width:100%%;
+		line-height: 30px;
+		margin:0 6px 0 6px;
+		color: #fff;
+        font-size:14px;
+	 }
+	.control-btn {
+        flow:horizontal;
+        position:absolute;
+        right:0;
+        top:0;
+    }
+    .control-btn div {
+        behavior: button;
+        display:block;
+        width:30px;
+        height:30px;
+        border:0;
+        margin:0;
+        padding:0;
+        transition:blend;
+    }
+    .control-btn .skin {
+        background:url("image/btn-control/btn_skin_normal.png") no-repeat;
+        click!:winskin();
+    }
+    .control-btn .skin:hover {
+        background:url("image/btn-control/btn_skin_highlight.png") no-repeat;
+    }
+    .control-btn .skin:active {
+        background:url("image/btn-control/btn_skin_down.png") no-repeat;
+    }
+    .control-btn .min {
+        background:url("image/btn-control/btn_mini_normal.png") no-repeat;
+        click!:mini();
+    }
+    .control-btn .min:hover {
+        background:url("image/btn-control/btn_mini_highlight.png") no-repeat;
+    }
+    .control-btn .min:active {
+        background:url("image/btn-control/btn_mini_down.png") no-repeat;
+    }
+    .control-btn .max {
+        background:url("image/btn-control/btn_max_normal.png") no-repeat;
+        click!:self::display="none", self.next()::display="block", winmax();
+    }
+    .control-btn .max:hover {
+        background:url("image/btn-control/btn_max_highlight.png") no-repeat;
+    }
+    .control-btn .max:active {
+        background:url("image/btn-control/btn_max_down.png") no-repeat;
+    }
+    .control-btn .close {
+        background:url("image/btn-control/btn_close_normal.png") no-repeat;
+        click!:close();
+    }
+    .control-btn .close:hover {
+        background:url("image/btn-control/btn_close_highlight.png") no-repeat;
+    }
+    .control-btn .close:active {
+        background:url("image/btn-control/btn_close_down.png") no-repeat;
+    }
+    .control-btn .restore {
+        background:url("image/btn-control/btn_restore_normal.png") no-repeat;
+        click!:self::display="none", self.prev()::display="block", winmax();
+    }
+    .control-btn .restore:hover {
+        background:url("image/btn-control/btn_restore_highlight.png") no-repeat;
+    }
+    .control-btn .restore:active {
+        background:url("image/btn-control/btn_restore_down.png") no-repeat;
+    }
+	.window-container .main-logo {
+		width:100%;
+		height:100%%;
+		background-color:#006699;
+        background-image:url('image/logo.jpg');
+        background-repeat:repeat;
+        background-position:center center;
+        background-size:969px 100%%;
+	}
+	.window-container .main-content{
+		width:100%;
+		height:100%%;
+	}
+	.window-container .main-footer{
+		width:100%%;
+		height:24px;
+		padding:0 6px 0 6px;
+        line-height: 24px;
+        background:#ebebeb;
+        color:#666666;
+	}
+
+.control-main {
+    margin:12px 20px 5px 20px;
+    width:100%%;
+}
+.control-main input { key-off!: (key-code() == 13) ? $1(.btn-post).click(); }
+.control-maintop { width:100%; height:80px; }
+.control-mainbottom { width:192px; height:62px; margin:-8px  auto; }
+.control-group {
+    height: 42px;
+    flow: horizontal;
+}
+.control-group .control-link{
+    width:120px;
+    height:42px;
+    line-height: 32px;
+    font-size:12px;
+}
+.control-link a { color: #2685E3; }
+.control-link a:hover { color: rgb(97,179,246); }
+.control-group .control-label {
+    width: 72px;
+    height:42px;
+    line-height: 32px;
+    padding-right: 24px;
+    text-align: right;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(68,68,68);
+}
+.control-group .control-input input {
+    width:180px;
+}
+.form-login {
+    flow: horizontal;
+    margin: 10px auto;
+    width:350px;
+    height:100%;
+}
+.form-login li {
+    display:block;
+    width:80%;
+    height:36px;
+    line-height: 36px;
+    font-size: 14px;
+    color: rgb(68,68,68);
+}
+.form-login .div-login-left { width:90px; } 
+.form-login .div-login-left li { text-align: right; padding-right:20%; font-weight: bold;}
+.form-login .div-login-conter { width:100%%; }
+.form-login .div-login-conter input { margin-bottom: 10px; }
+.form-login .div-login-right { width:90px; font-size: 14px; }
+.form-login .div-login-right li { text-align: left; padding-left:20%; font-size:12px; }

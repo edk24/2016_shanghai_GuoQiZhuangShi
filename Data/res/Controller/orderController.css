@@ -1,0 +1,41 @@
+/* 订单功能交互控制器 */
+
+//查看订单
+.click_order_view {
+	behavior:button;
+	double-click!: order(self.Type,"modify", self.Oid);
+}
+
+//修改订单 tr > td > a
+.click_order_modify {
+	click!: obj = self.parent().parent().parent(), order(obj.Type, "modify", obj.Oid);
+}
+
+//打印标签
+.click_order_print_label {
+	click!: obj = self.parent().parent().parent(), order(obj.Type, "print_label", obj.Oid);
+}
+
+//删除订单
+.click_order_del {
+	click!: obj = self.parent().parent().parent(), order(obj.Type, "del", obj.Oid);
+}
+#click_order_add {
+	click!:order(self.eType, "add");
+}
+#click_order_excel {
+	click!:order(self.eType, "excel");
+}
+//查询提交
+#order_search_post {
+	click!:
+			type = self.eType, //类型(zh,my)
+			user = "order_Uid like '" + ($1(#order_search_user):value=="0" ? "%" # $1(#order_search_user):value)+"'", //录入用户
+			client = "order_Cid like '" + ($1(#order_search_client):value=="0" ? "%" # $1(#order_search_client):value)+"'", //销售商
+			date_type = $1(#order_search_date):value,
+			date_start = $1(#order_search_date_start):value,
+			date_end = $1(#order_search_date_end):value,
+			key = $1(#order_search_key):value, //关键词
+			order(type, "search", user+" and "+client, key,date_type,date_start, date_end) //方法, 类型, 条件, 关键词
+	;
+}

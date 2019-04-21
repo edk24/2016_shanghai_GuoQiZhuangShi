@@ -1,0 +1,67 @@
+	<meta content="text/html; charset=gb2312" http-equiv="content-type">
+	<style>
+		@import url("basics.css");
+		@import url("user-login.css");
+		#user_savepwd { color:#666;width:50%%; margin-right:50px; padding-left:18px; }
+		#link-1 { click!:link_1(); }
+		#link-2 { click!:link_2(); }
+		#user_username { key-off!: (key-code() == 'TAB') ? $1(#user_password):focus = true; }
+		#user_username, #user_password {
+			key-off!: (key-code() == 13) ? $1(#btn-post).click();
+		}
+		#btn-post {
+			click!: user =  $1(#user_username):value,
+					pwd	 =	$1(#user_password):value,
+					do_login(user, pwd, $1(#user_save):checked, $1(#user_auto):checked);
+					// do_login(user, pwd, 是否保存密码, 是否自动登录, 自动登录吗)
+
+
+			assigned!: self.start-timer(3500);
+			timer!: self.stop-timer(),
+					$1(#user_auto):checked ? ( self.click());
+		}
+	</style>
+
+
+	<div class="window-main">
+		<div class="window-container">
+			<div class="main-titlebar">
+				<span id="window-title"></span>
+				<div class="control-btn">
+					<div class="skin"></div>
+					<div class="min"></div>
+					<div class="max"></div>
+					<div class="restore" style="display:none;"></div>
+					<div class="close"></div>
+				</div>
+			</div>
+			<div class="main-logo"></div>
+			<div class="main-content">
+				<div class="form-login">
+					<div class="div-login-left">
+						<li><label for="find_username">用户名</label></li>
+						<li><label for="find_username">密码</label></li>
+					</div>
+					<div class="div-login-conter">
+						<input type="text" class="text" id="user_username" style="width:100%%" novalue="请输入用户名">
+						<input type="password" class="text" id="user_password" style="width:100%%" novalue="请输入密码">
+						<div class="h-flow">
+							<button #user_save style="padding-left:20px; margin-bottom:5px" type="checkbox">记住密码</button>
+							<button #user_auto style="padding-left:20px;margin-left:*" type="checkbox">自动登录</button>
+						</div>
+					
+						<button class="btn btn-block  btn-primary btn-sm" #btn-post>登  录</button>
+					</div>
+					<div class="div-login-right">
+						<li><button class="btn btn-link btn-xs" style="click!: setServer();">设置服务器</button></li>
+						<li></li>
+					</div>
+				</div>
+		
+			</div>
+			<div class="main-footer">
+				<a href="http://www.baidu.com" target="_blank">在线技术客服 (QQ: 1421926943)</a>
+			</div>
+		</div>
+	</div>
+

@@ -1,0 +1,9 @@
+#start_date {
+	assigned!:self:value = self.now();
+}
+#acct_search {
+	click!:acct("search", $1(#start_date):value, $1(#end_date):value);
+}
+#acct_add {
+	click!:acct("add");
+}

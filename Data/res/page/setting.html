@@ -1,0 +1,111 @@
+<style>
+	#setting_post {
+		click!:set("base_save");
+	}
+</style>
+<div class="panel" #setting-gl>
+	<div class="panel-title">全局设置</div>
+	<div class="panel-body">
+		<form action="" class="form-vertical">
+			<div class="form-group">
+				<label for="" class="input-label">抬头</label>
+				<input type="text" class="input-control" #setting_title>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">打印所需</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">地址</label>
+				<input type="text" class="input-control" #setting_address>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">无特殊意义</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">电话</label>
+				<input type="text" class="input-control" #setting_phone>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">无特殊意义</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">网站</label>
+				<input type="text" class="input-control" #setting_website>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">无特殊意义</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">备注</label>
+				<input type="text" class="input-control" #setting_remark>
+				<label for="" class="input-label text-help" style="width:200px;text-align:left">无特殊意义</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">计量单位</label>
+				<input type="text" class="input-control" #setting_unit>
+				<label for="" class="input-label text-help" style="width:200px;text-align:left">产品功能预设选项, "|"分割</label>
+			</div>
+			<div class="form-group" style="height:72px">
+				<label for="" class="input-label">公司备注</label>
+				<textarea  cols="30" rows="1" style="width:*; height:70px" #setting_comremark></textarea>
+				<label for="" class="input-label text-help" style="width:200px;text-align:left">打印</label>
+			</div>
+			<div class="form-group" style="height:72px">
+				<label for="" class="input-label">页脚备注</label>
+				<textarea  cols="30" rows="1" style="width:*; height:70px" #setting_footer></textarea>
+				<label for="" class="input-label text-help" style="width:200px;text-align:left">打印</label>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="panel" >
+	<div class="panel-title">系统更新</div>
+	<div class="panel-body">
+		<form action="" class="form-vertical">
+			<div class="form-group">
+				<label for="" class="input-label">下载地址</label>
+				<input type="text" class="input-control" #setting_update_url>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">更新包, 打包为zip</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">内部版本</label>
+				<input type="text" class="input-control" #setting_update_version>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">供系统标记,不可重复</label>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="panel">
+	<div class="panel-title">私人设置</div>
+	<div class="panel-body">
+		<form action="" class="form-vertical">
+			<div class="form-group">
+				<label for="" class="input-label">开机启动</label>
+				<button type="checkbox" class="input-control" #setting_start>是</button>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">电脑启动时打开本系统</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">超时设置</label>
+				<select class="input-control" #setting_time>
+					<option value="-1">关闭</option>
+					<option value="300000">5分钟</option>
+					<option value="600000">10分钟</option>
+					<option value="1800000">30分钟</option>
+					<option value="3600000">1小时</option>
+				</select>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">超过此时间, 返回首页</label>
+			</div>
+			<div class="form-group">
+				<label for="" class="input-label">订单提醒</label>
+				<button type="checkbox" class="input-control" #setting_jindu>提醒我</button>
+				<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">订单被修改后提醒我</label>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="panel">
+	<div class="panel-title">打印机设置</div>
+	<div class="panel-body" #setprint>
+		<div class="form-group">
+			<label for="" class="input-label">打印标签</label>
+			<div class="input-label" style="display:block;width:100%%" id='div_print_label'></div>
+			<label for="" class="input-label text-help text-left" style="width:200px;text-align:left">打印所需</label>
+		</div>
+		<div class="form-group">
+			
+		</div>
+	</div>
+</div>
+<button class="btn btn-lg" #setting_post>保存设置</button>

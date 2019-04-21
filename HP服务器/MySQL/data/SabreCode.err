@@ -1,0 +1,1413 @@
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150628 15:40:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150628 15:40:55  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150711 23:54:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150711 23:54:02  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:26:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:26:28  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:27:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:27:04  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:27:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:27:51  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:28:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:28:01  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:33:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:33:19  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:33:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:33:46  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:34:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:34:36  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:35:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:35:26  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:36:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:36:26  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:36:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:36:55  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:37:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:37:28  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:38:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:38:03  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:38:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:38:42  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:39:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:39:26  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:39:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:39:56  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:40:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:40:28  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:41:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:41:08  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:41:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:41:43  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:42:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:42:15  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:44:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:44:18  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:47:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:47:28  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  0:51:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  0:51:45  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:06:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:06:49  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:07:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:07:42  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:09:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:09:18  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:12:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:12:55  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:15:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:15:06  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:18:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:18:09  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:20:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:20:07  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:21:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:21:30  InnoDB: Started; log sequence number 0 46419
+150712  1:21:30 [Note] Event Scheduler: Loaded 0 events
+150712  1:21:30 [Note] E:\Code\E\OrderForm\2015\H.宏旺家居订单系统_5000\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:23:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:23:39  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712  1:33:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712  1:33:47  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712 10:08:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712 10:08:34  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712 15:16:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712 15:16:45  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150712 15:17:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150712 15:17:24  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:46:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:46:57  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:47:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:47:32  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:48:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:48:05  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:49:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:49:24  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:50:11  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:50:11  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150713 16:58:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150713 16:58:09  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150721  1:19:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150721  1:19:51  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150726 17:07:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150726 17:07:20  InnoDB: Started; log sequence number 0 46419
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151008 21:36:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151008 21:36:06  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151008 22:55:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151008 22:55:27  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151008 22:57:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151008 22:57:12  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151009 13:53:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151009 13:53:43  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151009 14:00:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151009 14:00:33  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151009 23:01:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151009 23:01:39  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151009 23:05:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151009 23:05:35  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151011 15:49:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151011 15:49:19  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151011 15:50:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151011 15:50:09  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151011 17:39:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151011 17:39:36  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151011 17:39:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151011 17:39:56  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151012 15:12:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151012 15:12:41  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151012 15:12:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151012 15:12:59  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151014 12:43:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151014 12:43:44  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151014 12:43:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151014 12:43:57  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151014 16:52:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151014 16:52:49  InnoDB: Started; log sequence number 0 46439
+151014 16:52:50 [Note] Event Scheduler: Loaded 0 events
+151014 16:52:50 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151014 16:53:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151014 16:53:05  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151015 11:14:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151015 11:14:24  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151016 12:04:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151016 12:04:09  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151016 12:04:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151016 12:04:44  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151024  0:15:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151024  0:15:57  InnoDB: Started; log sequence number 0 46439
+151024  0:15:58 [Note] Event Scheduler: Loaded 0 events
+151024  0:15:58 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151024  0:30:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151024  0:30:32  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151024  0:34:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151024  0:34:36  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151025  2:45:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151025  2:45:16  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151025 10:16:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151025 10:16:49  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151029 13:03:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151029 13:03:46  InnoDB: Started; log sequence number 0 46439
+151029 13:03:47 [Note] Event Scheduler: Loaded 0 events
+151029 13:03:47 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151029 22:24:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151029 22:24:50  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151030 13:30:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151030 13:30:40  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151030 14:14:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151030 14:14:19  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151031 12:07:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151031 12:07:22  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151101 10:50:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151101 10:50:08  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151103 18:59:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151103 18:59:16  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151103 21:12:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151103 21:12:23  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151112 13:23:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151112 13:23:53  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151112 21:06:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151112 21:06:49  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151113 12:54:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151113 12:54:14  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151113 22:23:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151113 22:23:46  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151113 23:01:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151113 23:01:38  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151114 15:38:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151114 15:38:54  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151115 16:40:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151115 16:40:17  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151117 12:59:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151117 12:59:58  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151119 14:16:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151119 14:16:05  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151127 13:12:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151127 13:12:06  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151128 18:41:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151128 18:41:14  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151128 23:15:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151128 23:15:41  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151130 21:34:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151130 21:34:55  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151208  2:19:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151208  2:19:39  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151214 16:03:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151214 16:03:20  InnoDB: Started; log sequence number 0 46439
+151214 16:03:21 [Note] Event Scheduler: Loaded 0 events
+151214 16:03:21 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151214 16:05:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151214 16:05:04  InnoDB: Started; log sequence number 0 46439
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151215 14:19:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151215 14:19:20  InnoDB: Started; log sequence number 0 46439
+151215 14:19:21 [Note] Event Scheduler: Loaded 0 events
+151215 14:19:21 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151216 22:47:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151216 22:47:51  InnoDB: Started; log sequence number 0 46449
+151216 22:47:52 [Note] Event Scheduler: Loaded 0 events
+151216 22:47:52 [Note] E:\同步资料\Code\E\OrderForm\2015\J.进销存\服务端\mysql\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151217 20:22:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151217 20:22:34  InnoDB: Started; log sequence number 0 46449
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151217 21:22:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151217 21:22:13  InnoDB: Started; log sequence number 0 46449
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151228 22:06:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151228 22:06:52  InnoDB: Started; log sequence number 0 46449
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151228 22:09:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151228 22:09:07  InnoDB: Started; log sequence number 0 46449
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151228 22:10:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151228 22:10:52  InnoDB: Started; log sequence number 0 46449
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151228 22:15:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151228 22:15:34  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+151228 22:24:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+151228 22:24:25  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:02:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:02:38  InnoDB: Started; log sequence number 0 46459
+160202  4:02:38 [Note] Event Scheduler: Loaded 0 events
+160202  4:02:38 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:05:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:05:23  InnoDB: Started; log sequence number 0 46459
+160202  4:05:23 [Note] Event Scheduler: Loaded 0 events
+160202  4:05:23 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:05:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:05:48  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:34:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:34:39  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:37:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:37:21  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:39:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:39:54  InnoDB: Started; log sequence number 0 46459
+160202  4:39:54 [Note] Event Scheduler: Loaded 0 events
+160202  4:39:54 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:40:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:40:02  InnoDB: Started; log sequence number 0 46459
+160202  4:40:02 [Note] Event Scheduler: Loaded 0 events
+160202  4:40:02 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:41:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:41:40  InnoDB: Started; log sequence number 0 46459
+160202  4:41:40 [Note] Event Scheduler: Loaded 0 events
+160202  4:41:40 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202  4:50:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202  4:50:34  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202 19:23:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202 19:23:04  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160202 19:24:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160202 19:24:43  InnoDB: Started; log sequence number 0 46459
+160202 19:24:43 [Note] Event Scheduler: Loaded 0 events
+160202 19:24:43 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160204 23:38:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160204 23:38:45  InnoDB: Started; log sequence number 0 46459
+160204 23:38:46 [Note] Event Scheduler: Loaded 0 events
+160204 23:38:46 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160205  7:31:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160205  7:31:30  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 14:17:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 14:17:40  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 20:30:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 20:30:58  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:10:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:10:40  InnoDB: Started; log sequence number 0 46459
+160211 22:10:41 [Note] Event Scheduler: Loaded 0 events
+160211 22:10:41 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:12:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:12:33  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:19:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:19:02  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:20:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:20:25  InnoDB: Started; log sequence number 0 46459
+160211 22:20:25 [Note] Event Scheduler: Loaded 0 events
+160211 22:20:25 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:40:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:40:53  InnoDB: Started; log sequence number 0 46459
+160211 22:40:54 [Note] Event Scheduler: Loaded 0 events
+160211 22:40:54 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:41:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:41:36  InnoDB: Started; log sequence number 0 46459
+160211 22:41:36 [Note] Event Scheduler: Loaded 0 events
+160211 22:41:36 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160211 22:43:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160211 22:43:26  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160212  7:00:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160212  7:00:43  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160212  7:02:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160212  7:02:04  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160212 14:58:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160212 14:58:50  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160212 16:02:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160212 16:02:09  InnoDB: Started; log sequence number 0 46459
+160212 16:02:10 [Note] Event Scheduler: Loaded 0 events
+160212 16:02:10 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160214  0:58:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160214  0:58:42  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160214  2:58:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160214  2:58:55  InnoDB: Started; log sequence number 0 46459
+160214  2:58:57 [Note] Event Scheduler: Loaded 0 events
+160214  2:58:57 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160214 18:16:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160214 18:16:33  InnoDB: Started; log sequence number 0 46459
+160214 18:16:34 [Note] Event Scheduler: Loaded 0 events
+160214 18:16:34 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160215 16:08:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160215 16:08:19  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160216  2:10:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160216  2:10:52  InnoDB: Started; log sequence number 0 46459
+160216  2:10:54 [Note] Event Scheduler: Loaded 0 events
+160216  2:10:54 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160217  1:12:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160217  1:12:06  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160217 16:43:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160217 16:43:50  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160218 20:20:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160218 20:20:49  InnoDB: Started; log sequence number 0 46459
+160218 20:20:50 [Note] Event Scheduler: Loaded 0 events
+160218 20:20:50 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160219  2:17:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160219  2:17:02  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160219 16:42:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160219 16:42:46  InnoDB: Started; log sequence number 0 46459
+160219 16:42:48 [Note] Event Scheduler: Loaded 0 events
+160219 16:42:48 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160219 19:48:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160219 19:48:00  InnoDB: Started; log sequence number 0 46459
+160219 19:48:02 [Note] Event Scheduler: Loaded 0 events
+160219 19:48:02 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160220 23:25:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160220 23:25:49  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160221 22:57:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160221 22:57:49  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 18:51:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 18:51:26  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 19:37:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 19:37:07  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:01:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:01:16  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:02:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:02:00  InnoDB: Started; log sequence number 0 46459
+160222 20:02:00 [Note] Event Scheduler: Loaded 0 events
+160222 20:02:00 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:02:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:02:23  InnoDB: Started; log sequence number 0 46459
+160222 20:02:23 [Note] Event Scheduler: Loaded 0 events
+160222 20:02:23 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:03:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:03:43  InnoDB: Started; log sequence number 0 46459
+160222 20:03:43 [Note] Event Scheduler: Loaded 0 events
+160222 20:03:43 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:04:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:04:18  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:06:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:06:21  InnoDB: Started; log sequence number 0 46459
+160222 20:06:21 [Note] Event Scheduler: Loaded 0 events
+160222 20:06:21 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:08:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:08:03  InnoDB: Started; log sequence number 0 46459
+160222 20:08:04 [Note] Event Scheduler: Loaded 0 events
+160222 20:08:04 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:09:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:09:25  InnoDB: Started; log sequence number 0 46459
+160222 20:09:26 [Note] Event Scheduler: Loaded 0 events
+160222 20:09:26 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160222 20:18:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160222 20:18:12  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160224 12:33:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160224 12:33:59  InnoDB: Started; log sequence number 0 46459
+160224 12:34:01 [Note] Event Scheduler: Loaded 0 events
+160224 12:34:01 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160224 13:20:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160224 13:20:03  InnoDB: Started; log sequence number 0 46459
+160224 13:20:04 [Note] Event Scheduler: Loaded 0 events
+160224 13:20:04 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160224 14:02:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160224 14:02:38  InnoDB: Started; log sequence number 0 46459
+160224 14:02:40 [Note] Event Scheduler: Loaded 0 events
+160224 14:02:40 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160224 14:06:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160224 14:06:03  InnoDB: Started; log sequence number 0 46459
+160224 14:06:03 [Note] Event Scheduler: Loaded 0 events
+160224 14:06:03 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160225 19:34:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160225 19:34:59  InnoDB: Started; log sequence number 0 46459
+160225 19:35:00 [Note] Event Scheduler: Loaded 0 events
+160225 19:35:00 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160226 17:23:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160226 17:23:05  InnoDB: Started; log sequence number 0 46459
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160227 17:23:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160227 17:23:27  InnoDB: Started; log sequence number 0 46459
+160227 17:23:29 [Note] Event Scheduler: Loaded 0 events
+160227 17:23:29 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160229 14:15:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160229 14:15:20  InnoDB: Started; log sequence number 0 46459
+160229 14:15:21 [Note] Event Scheduler: Loaded 0 events
+160229 14:15:21 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160301  0:25:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160301  0:25:59  InnoDB: Started; log sequence number 0 46459
+160301  0:26:01 [Note] Event Scheduler: Loaded 0 events
+160301  0:26:01 [Note] E:\同步资料\Code\E\OrderForm\2016\J.进销存_广告印刷_1800\Server\MySQL\bin\mysqld.exe: ready for connections.
+Version: '6.0.5-alpha-community'  socket: ''  port: 3307  MySQL Community Server (GPL)

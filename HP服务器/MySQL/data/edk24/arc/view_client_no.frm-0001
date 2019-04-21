@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `a`.`id` AS `id`,`a`.`客户名称` AS `客户名称`,`a`.`联系电话` AS `联系电话`,`a`.`其他联系方式` AS `其他联系方式`,`a`.`备注` AS `备注`,`a`.`录入日期` AS `录入日期`,`a`.`del` AS `del`,`b`.`id` AS `最近一单`,`b`.`状态_喷印` AS `状态_喷印`,`b`.`状态_录入` AS `状态_录入`,`b`.`状态_收款` AS `状态_收款`,`b`.`状态_设计` AS `状态_设计`,sum(`b`.`goods_消费额`) AS `消费额` from `edk24`.`table_客户` `a` join `edk24`.`table_订单` `b` where ((`a`.`id` = `b`.`cid`) and (`b`.`状态_收款` = 0) and (`b`.`状态_设计` = 0) and (`b`.`状态_喷印` <= 0)) group by `a`.`id`
+md5=c6b7ed5053a917c0107ba58eacc06483
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=%
+suid=1
+with_check_option=0
+revision=1
+timestamp=2016-02-19 18:48:02
+create-version=1
+source=SELECT a.*, b.id as `最近一单`, b.`状态_喷印`, b.`状态_录入`, b.`状态_收款`,\nb.`状态_设计`, sum(b.goods_消费额) as `消费额`\n FROM `table_客户` a, `table_订单` b where a.id=b.cid and (b.`状态_收款`=0 and b.`状态_设计`=0 and b.`状态_喷印`<=0) GROUP BY a.id
+client_cs_name=utf8
+connection_cl_name=utf8_general_ci
+view_body_utf8=select `a`.`id` AS `id`,`a`.`客户名称` AS `客户名称`,`a`.`联系电话` AS `联系电话`,`a`.`其他联系方式` AS `其他联系方式`,`a`.`备注` AS `备注`,`a`.`录入日期` AS `录入日期`,`a`.`del` AS `del`,`b`.`id` AS `最近一单`,`b`.`状态_喷印` AS `状态_喷印`,`b`.`状态_录入` AS `状态_录入`,`b`.`状态_收款` AS `状态_收款`,`b`.`状态_设计` AS `状态_设计`,sum(`b`.`goods_消费额`) AS `消费额` from `edk24`.`table_客户` `a` join `edk24`.`table_订单` `b` where ((`a`.`id` = `b`.`cid`) and (`b`.`状态_收款` = 0) and (`b`.`状态_设计` = 0) and (`b`.`状态_喷印` <= 0)) group by `a`.`id`

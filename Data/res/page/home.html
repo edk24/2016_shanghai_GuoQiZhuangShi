@@ -1,0 +1,58 @@
+<style>
+	#start_open {
+		behavior:button;
+		click!:
+				start("open", self.sid);
+	}
+	#start_class_edit {
+		click!: parent = self.parent(),
+				start("class_edit", parent.cid);
+	}
+	#start_class_edit {
+		click!: parent = self.parent(),
+				start("class_del", parent.cid);
+	}
+</style>
+<div style="flow:horizontal; height:*;" >
+	<div style="width:320px; height:*; padding-right:10px;">
+		<p>
+		<button class="btn" style='click!:start("add")'>添加软件</button>
+		</p>
+		<br />
+		<ul .qqlist style="height:*" #start_list>
+			<li><!--
+				<div class="qqlist-head">
+					<div class="title"><i></i>办公软件</div>
+					<div class="menu" cid="1">
+					<button .conbtn>改</button>&nbsp;<button .conbtn>删</button></div>
+				</div>
+				<ul class="qqlist-body">
+					
+				</ul>
+				-->
+			</li>
+		</ul>
+	</div>
+	<div style="width:*; height:*">
+		<div class="panel">
+			<div class="panel-title">公告
+				<a href="#" #notice-add style='click!:basic(1, "add");'>发布</a>
+			</div>
+			<div class="panel-body">
+				<ul class="newlist" #load-notice>
+					
+				</ul>
+			</div>
+		</div>
+		<div class="panel">
+			<div class="panel-title">我的便签
+				<a href="#" #note-add style='click!:basic(2, "add");'>添加</a>
+			</div>
+			<div class="panel-body">
+				<ul class="note" #load-note>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,38 @@
+<style>
+	@import url(./Controller/clientController.css);
+</style>
+<form class="form-horizontal">
+	<div class="form-group liline">
+		<button class="btn" #client_add>新增</button>
+	</div>
+	<div class="form-group" style="width:360px; horizontal-flow:left">
+		<select name="" style="width:72px" #client_search_type>
+			<option value="%">不限</option>
+			<option value="1">客户</option>
+			<option value="2">供应商</option>
+		</select>
+		<input type="text" class="input-control" #client_search_key novalue="请输入关键词" />
+		<button class="btn" #client_search>查询</button>
+	</div>
+</form>
+
+<widget type='select' .table style="height:100%%">
+					<table cellspacing="0px">
+						<thead>
+							<tr>
+								<th width="42px">Id</th>
+								<th width="72px">类型</th>
+								<th width="180px">姓名</th>
+								<th width="100px">手机</th>
+								<th width="120px">公司名称</th>
+								<th width="150px">地址</th>
+								<th>电话</th>
+								<th>备注</th>
+								<th width="90px"></th>
+							</tr>
+						</thead>
+						<tbody #client_list>
+
+						</tbody>
+					</table>
+				</widget>

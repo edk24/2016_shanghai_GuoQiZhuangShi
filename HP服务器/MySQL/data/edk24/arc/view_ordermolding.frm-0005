@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `a`.`order_ID` AS `order_ID`,`a`.`order_Cid` AS `order_Cid`,`a`.`order_Uid` AS `order_Uid`,`a`.`order_Date` AS `order_Date`,`a`.`order_CompleteDate` AS `order_CompleteDate`,`a`.`order_Fax` AS `order_Fax`,`a`.`order_Address` AS `order_Address`,`a`.`order_Express` AS `order_Express`,`a`.`order_Price` AS `order_Price`,`a`.`order_Square` AS `order_Square`,`a`.`order_Numbar` AS `order_Numbar`,`a`.`order_Money` AS `order_Money`,`a`.`order_Remark` AS `order_Remark`,`a`.`order_Delete` AS `order_Delete`,`a`.`order_LastDate` AS `order_LastDate`,`a`.`order_Type` AS `order_Type`,`a`.`order_State` AS `order_State`,`a`.`order_Schedule` AS `order_Schedule`,`a`.`order_ExpressAddress` AS `order_ExpressAddress`,`b`.`user_ID` AS `user_ID`,`b`.`user_Username` AS `user_Username`,`c`.`client_ID` AS `client_ID`,`c`.`client_Name` AS `client_Name`,`c`.`client_Company` AS `client_Company`,`c`.`client_Remark` AS `client_Remark`,`c`.`client_TelePhone` AS `client_TelePhone`,`c`.`client_Phone` AS `client_Phone`,`c`.`client_Address` AS `client_Address`,`c`.`client_LastDate` AS `client_LastDate`,`c`.`client_Delete` AS `client_Delete`,`c`.`client_Pinyin` AS `client_Pinyin` from ((`edk24`.`table_ordermolding` `a` join `edk24`.`table_user` `b` on((`a`.`order_Uid` = `b`.`user_ID`))) join `edk24`.`table_client` `c` on((`a`.`order_Cid` = `c`.`client_ID`)))
+md5=610886f36ccc997f9732274565cf1a03
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=%
+suid=1
+with_check_option=0
+revision=5
+timestamp=2016-09-30 04:15:56
+create-version=1
+source=select \na.*,b.user_ID,b.user_Username,c.*\nfrom table_ordermolding a\ninner join table_user b ON a.order_Uid=b.user_ID \ninner join table_client c on a.order_Cid=c.client_ID
+client_cs_name=utf8
+connection_cl_name=utf8_general_ci
+view_body_utf8=select `a`.`order_ID` AS `order_ID`,`a`.`order_Cid` AS `order_Cid`,`a`.`order_Uid` AS `order_Uid`,`a`.`order_Date` AS `order_Date`,`a`.`order_CompleteDate` AS `order_CompleteDate`,`a`.`order_Fax` AS `order_Fax`,`a`.`order_Address` AS `order_Address`,`a`.`order_Express` AS `order_Express`,`a`.`order_Price` AS `order_Price`,`a`.`order_Square` AS `order_Square`,`a`.`order_Numbar` AS `order_Numbar`,`a`.`order_Money` AS `order_Money`,`a`.`order_Remark` AS `order_Remark`,`a`.`order_Delete` AS `order_Delete`,`a`.`order_LastDate` AS `order_LastDate`,`a`.`order_Type` AS `order_Type`,`a`.`order_State` AS `order_State`,`a`.`order_Schedule` AS `order_Schedule`,`a`.`order_ExpressAddress` AS `order_ExpressAddress`,`b`.`user_ID` AS `user_ID`,`b`.`user_Username` AS `user_Username`,`c`.`client_ID` AS `client_ID`,`c`.`client_Name` AS `client_Name`,`c`.`client_Company` AS `client_Company`,`c`.`client_Remark` AS `client_Remark`,`c`.`client_TelePhone` AS `client_TelePhone`,`c`.`client_Phone` AS `client_Phone`,`c`.`client_Address` AS `client_Address`,`c`.`client_LastDate` AS `client_LastDate`,`c`.`client_Delete` AS `client_Delete`,`c`.`client_Pinyin` AS `client_Pinyin` from ((`edk24`.`table_ordermolding` `a` join `edk24`.`table_user` `b` on((`a`.`order_Uid` = `b`.`user_ID`))) join `edk24`.`table_client` `c` on((`a`.`order_Cid` = `c`.`client_ID`)))

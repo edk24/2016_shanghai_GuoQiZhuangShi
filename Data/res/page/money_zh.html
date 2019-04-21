@@ -1,0 +1,65 @@
+<style>
+	@import url(./Controller/orderController.css);
+	#money_post {
+		click!: money("zh", "search");
+	}
+	#money_excel {
+		click!: money("zh", "excel");
+	}
+</style>
+<div class="vertical height-auto">
+	<form action="" class="form-horizontal" #money_where>
+		<div class="form-group" style="width:auto">
+			<label for="" class="input-label">关键词</label>
+			<input type="text" novalue="姓名or地址" .input-control #money_where_key>
+			<button class="btn" #money_post>搜索</button>
+			<button class="btn" #money_excel>导出表格</button>
+		</div>
+	</form>
+	<div class="horizontal height-auto" >
+		<div class="width-auto height-auto" >
+			<widget type='select' .table style="height:100%%">
+					<table cellspacing="0px">
+						<thead>
+							<tr>
+								<th width="120px">订单编号</th>
+								<th width="120px">订单录入</th>
+								<th width="120px">客户</th>
+								<th width="100px">地址</th>
+								<th >销售</th>
+								<th >下单日期</th>
+								<th >完成日期</th>
+								<th >已下单</th>
+								<th style="width:94px">金额</th>
+								<th style="width:94px">已收款</th>
+								<th >备注</th>
+								<th >Action</th>
+							</tr>
+						</thead>
+						<tbody #money_zh_list>
+
+						</tbody>
+						<div>
+							<div style="width:200px; margin-left:auto;">
+								<a href="" style='click!:page("money_zh", "Home")'>首页</a>&nbsp;
+								<a href="" style='click!:page("money_zh", "Prev")'>上一页</a>&nbsp;
+								<a href="" style='click!:page("money_zh", "Next")'>下一页</a>&nbsp;
+								<a href="" style='click!:page("money_zh", "Last")'>尾页</a>
+							</div>
+							<div id="money_zh_pageinfo" style="width:200px; margin-right:auto;"></div>
+						</div>
+					</table>
+				</widget>
+		</div>
+		<div style="width:240px">
+			<ul class="newlist" #money_zh_statistical>
+				<li>订单总数<span>赤虹网络</span></li>
+				<li>总销售额<span>剑齿虎</span></li>
+				<li>已付款订单</li>
+				<li>未付款订单</li>
+				<li>已付款</li>
+				<li>未付款</li>
+			</ul>
+		</div>
+	</div>
+</div>
