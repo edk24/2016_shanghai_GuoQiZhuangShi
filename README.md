@@ -5,6 +5,8 @@
 
 开发语言: 易语言
 
+![login界面](login.jpg)
+
 #### 软件架构
 使用了`hp-socket` + `mysql` 开发服务端程序;
 
